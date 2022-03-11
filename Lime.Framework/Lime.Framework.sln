@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lime.Framework", "Lime.Framework\Lime.Framework.csproj", "{200ABEB4-9504-468D-B557-5331B710A6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200ABEB4-9504-468D-B557-5331B710A6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200ABEB4-9504-468D-B557-5331B710A6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200ABEB4-9504-468D-B557-5331B710A6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200ABEB4-9504-468D-B557-5331B710A6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
